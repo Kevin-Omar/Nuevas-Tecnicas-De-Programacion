@@ -12,7 +12,7 @@ for (let index = 0; index < array.length; index++) {
 */
 //FOR IN
 var persona = {
-    nombre: "Kevin",
+    nombre: "Kevin Omar",
     apellido: "Guishcashina",
     viajes:["",""]
 }
