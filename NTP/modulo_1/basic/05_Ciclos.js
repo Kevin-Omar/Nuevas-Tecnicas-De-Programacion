@@ -13,7 +13,7 @@ for (let index = 0; index < array.length; index++) {
 //FOR IN
 var persona = {
     nombre: "Kevin Omar",
-    apellido: "Guishcashina",
+    apellido: "Guishcashina chiliquinga",
     viajes:["",""]
 }
 for (const key in persona) {
